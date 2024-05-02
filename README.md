@@ -40,3 +40,5 @@ You can train the model with your own dataset by modifying the training script a
 ### Contributing:
 
 Contributions to this project are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
+
+### Update: The project needs to be deployed using flask/django.
